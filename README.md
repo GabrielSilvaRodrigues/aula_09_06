@@ -1,2 +1,2 @@
 # aula_09_06
-Diagrama de Modelo de Estado.
+Diagrama de Máquina de Estado.
